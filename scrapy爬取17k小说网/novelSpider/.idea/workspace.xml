@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="162bc0cb-e338-43f1-994f-92174997c7a4" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/novelSpider/spiders/spiders.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="61" column="44" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
+              <folding>
+                <element signature="e#49#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/novelSpider/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-840">
+              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/novelSpider/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="490">
+              <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/novelSpider/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-209">
+              <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/novelSpider/settings.py" />
+        <option value="$PROJECT_DIR$/novelSpider/items.py" />
+        <option value="$PROJECT_DIR$/novelSpider/spiders/spiders.py" />
+        <option value="$PROJECT_DIR$/novelSpider/pipelines.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="862" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="novelSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="novelSpider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="novelSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="novelSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="novelSpider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="novelSpider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="novelSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="novelSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../proj01" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="spiders" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="novelSpider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/novelSpider/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/novelSpider/spiders/spiders.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.spiders" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="162bc0cb-e338-43f1-994f-92174997c7a4" name="Default Changelist" comment="" />
+      <created>1561336977989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561336977989</updated>
+      <workItem from="1561336979889" duration="1195000" />
+      <workItem from="1561338245155" duration="1311000" />
+      <workItem from="1561340309660" duration="1779000" />
+      <workItem from="1561342172626" duration="1763000" />
+      <workItem from="1561344058612" duration="1127000" />
+      <workItem from="1561345914945" duration="1636000" />
+      <workItem from="1561358803297" duration="1764000" />
+      <workItem from="1561360643932" duration="599000" />
+      <workItem from="1561362599250" duration="1782000" />
+      <workItem from="1561364477728" duration="1755000" />
+      <workItem from="1561366316159" duration="1754000" />
+      <workItem from="1561368155760" duration="1750000" />
+      <workItem from="1561370166188" duration="610000" />
+      <workItem from="1561444680627" duration="1697000" />
+      <workItem from="1561446584815" duration="1255000" />
+      <workItem from="1561449996087" duration="1730000" />
+      <workItem from="1561451854233" duration="1716000" />
+      <workItem from="1561453739246" duration="1713000" />
+      <workItem from="1561455705203" duration="1257000" />
+      <workItem from="1561476760375" duration="579000" />
+      <workItem from="1561512642278" duration="1504000" />
+      <workItem from="1561515210592" duration="1702000" />
+      <workItem from="1561521733089" duration="1730000" />
+      <workItem from="1561523554785" duration="1723000" />
+      <workItem from="1561525400016" duration="1740000" />
+      <workItem from="1561528784353" duration="1683000" />
+      <workItem from="1561531457701" duration="1755000" />
+      <workItem from="1561533353361" duration="1741000" />
+      <workItem from="1561535182295" duration="1752000" />
+      <workItem from="1561537021715" duration="513000" />
+      <workItem from="1561537620683" duration="1005000" />
+      <workItem from="1561538781259" duration="1545000" />
+      <workItem from="1561540665269" duration="1756000" />
+      <workItem from="1561542520145" duration="423000" />
+      <workItem from="1561610166018" duration="1514000" />
+      <workItem from="1561612014777" duration="1256000" />
+      <workItem from="1561613887230" duration="1689000" />
+      <workItem from="1561615705739" duration="1730000" />
+      <workItem from="1561619074630" duration="1736000" />
+      <workItem from="1561621449483" duration="1722000" />
+      <workItem from="1561623301189" duration="1721000" />
+      <workItem from="1561625223238" duration="1642000" />
+      <workItem from="1561626996439" duration="1730000" />
+      <workItem from="1561628885114" duration="1355000" />
+      <workItem from="1561639311896" duration="16000" />
+      <workItem from="1561640803606" duration="1583000" />
+      <workItem from="1561642672609" duration="1661000" />
+      <workItem from="1561644479345" duration="1715000" />
+      <workItem from="1561646311306" duration="2050000" />
+      <workItem from="1561648495395" duration="1720000" />
+      <workItem from="1561650367046" duration="1317000" />
+      <workItem from="1561653569333" duration="1714000" />
+      <workItem from="1561655434507" duration="1636000" />
+      <workItem from="1561659138107" duration="1683000" />
+      <workItem from="1561661449593" duration="1264000" />
+      <workItem from="1561680577675" duration="1748000" />
+      <workItem from="1561682418838" duration="1615000" />
+      <workItem from="1561684262514" duration="700000" />
+      <workItem from="1561697932168" duration="1750000" />
+      <workItem from="1561699784395" duration="1736000" />
+      <workItem from="1561701642533" duration="1708000" />
+      <workItem from="1561703464839" duration="1376000" />
+      <workItem from="1561705327664" duration="1738000" />
+      <workItem from="1561707185451" duration="1674000" />
+      <workItem from="1561709056181" duration="1285000" />
+      <workItem from="1561711238212" duration="1528000" />
+      <workItem from="1561724687672" duration="1718000" />
+      <workItem from="1561726566271" duration="783000" />
+      <workItem from="1561728545380" duration="1842000" />
+      <workItem from="1561731486895" duration="1739000" />
+      <workItem from="1561733310347" duration="1753000" />
+      <workItem from="1561735397396" duration="1533000" />
+      <workItem from="1561743279109" duration="1376000" />
+      <workItem from="1561745707298" duration="1770000" />
+      <workItem from="1561747604381" duration="255000" />
+      <workItem from="1561800454059" duration="1765000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="113190000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07639939" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.049099836" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Python Console" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/novelSpider$spiders.coverage" NAME="spiders Coverage Results" MODIFIED="1561629901502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/novelSpider/spiders" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/novelSpider/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-171" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novelSpider/spiders/spiders.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="61" column="44" selection-start-line="61" selection-start-column="44" selection-end-line="61" selection-end-column="44" />
+          <folding>
+            <element signature="e#49#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novelSpider/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-840">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novelSpider/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/novelSpider/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209">
+          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
