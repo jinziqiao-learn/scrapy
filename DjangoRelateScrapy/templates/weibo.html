@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>微博首页</title>
+    <link rel="stylesheet" type="text/css" href="/static/css/a.css">
+</head>
+<body>
+    <div class="topDiv">
+        <img src="/static/img/weibo.png" >
+        <p> 微博热点自动提取软件开发 </p>
+        <div>
+             <input type="image" name="热点提取" src="/static/img/jiji.png">
+             <span class="oneSpan">←←←</span><span class="twoSpan">点这里</span>
+
+        </div>
+    </div>
+    <div class="leftDiv">
+        <ul>
+            <li><a href="#">热点</a></li>
+            <li><a href="/detail/1760">头条</a></li>
+            <li><a href="#">新鲜事</a></li>
+            <li><a href="#">榜单</a></li>
+            <li><a href="#">搞笑</a></li>
+            <li><a href="#">社会</a></li>
+            <li><a href="#">时尚</a></li>
+        </ul>
+    </div>
+    <div class="spotDiv">
+        <ul>
+            {% for item in spotList %}
+            <div>
+                <li class="oneLi"><a href="{{ item.address }}" target="_blank">{{ item.content }}</a></li><br/><br/>
+                <li>{{ item.author }}   &emsp;{{ item.publishTime }}</li> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+                <li class="twoLi">
+                    <input type="image" src="/static/img/approve.png">&nbsp;{{ item.approve }}&emsp;
+                    <input type="image" src="/static/img/comment.png">&nbsp;{{ item.comment }}&emsp;
+                    <input type="image" src="/static/img/repost.png">&nbsp;{{ item.repost }}
+                </li>
+            </div>
+            {% endfor %}
+        </ul>
+        <ul class="oneUl">
+            {% for index in spotList.paginator.page_range %}
+                {% if index == spotList.number %}
+                    &emsp;<li>{{ index }}</li>
+                {% else %}
+                    &emsp;
+                    <li>
+                    <a href="/detail/{{ index }}/">{{ index }}</a>
+                    </li>
+                {% endif %}
+            {% endfor %}
+         </ul>
+    </div>
+</body>
+</html>
